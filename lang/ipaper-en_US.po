@@ -1,0 +1,648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iPaper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-03 23:18+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Telesphore <mail@telesphore.org>\n"
+"Language-Team: Telesphore <mail@telesphore.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ipaper.php:170
+#: ../ipaper.php:178
+#: ../ipaper.php:286
+msgid "Login error!"
+msgstr "Login error!"
+
+#: ../ipaper.php:210
+msgid "Upload impossible"
+msgstr "Upload impossible"
+
+#: ../ipaper.php:244
+msgid "Error: Document not updated!"
+msgstr "Error: Document not updated!"
+
+#: ../ipaper.php:261
+msgid "Error: Document not deleted!"
+msgstr "Error: Document not deleted!"
+
+#: ../ipaper.php:299
+msgid "Error: Values must be numeric!"
+msgstr "Error: Values must be numeric!"
+
+#: ../ipaper.php:333
+#: ../ipaper.php:342
+msgid "Error: Upload problem!"
+msgstr "Error: Upload problem!"
+
+#: ../ipaper.php:413
+msgid "iPaper Settings"
+msgstr "iPaper Settings"
+
+#: ../ipaper.php:415
+msgid "List of documents can be find on iPaper page"
+msgstr "List of documents can be find on iPaper page"
+
+#: ../ipaper.php:442
+msgid "How to"
+msgstr "How to"
+
+#: ../ipaper.php:444
+msgid "You must have a <a href=\"http://www.scribd.com/\">Scribd</a> account to use this plugin."
+msgstr "You must have a <a href=\"http://www.scribd.com/\">Scribd</a> account to use this plugin."
+
+#: ../ipaper.php:445
+msgid "Once you are logged in you can synchronize your documents and insert them into posts."
+msgstr "Once you are logged in you can synchronize your documents and insert them into posts."
+
+#: ../ipaper.php:446
+msgid "Learn more about all features of this plugin in <a href=\"#help\">help</a>"
+msgstr "Learn more about all features of this plugin in <a href=\"#help\">help</a>"
+
+#: ../ipaper.php:448
+msgid "Thanks for your support!"
+msgstr "Thanks for your support!"
+
+#: ../ipaper.php:449
+msgid "A huge thanks to the people who have donated to support"
+msgstr "A huge thanks to the people who have donated to support"
+
+#: ../ipaper.php:449
+msgid "development, I will keep on working to enhance it!"
+msgstr "development, I will keep on working to enhance it!"
+
+#: ../ipaper.php:459
+msgid "Plugin not configured"
+msgstr "Plugin not configured"
+
+#: ../ipaper.php:461
+msgid "Your administrator has not finished to configure iPaper, you can't use it for now."
+msgstr "Your administrator has not finished to configure iPaper, you can't use it for now."
+
+#: ../ipaper.php:462
+msgid "Go to"
+msgstr "Go to"
+
+#: ../ipaper.php:462
+msgid "settings page"
+msgstr "settings page"
+
+#: ../ipaper.php:471
+msgid "Published"
+msgstr "Published"
+
+#: ../ipaper.php:471
+msgid "Converting..."
+msgstr "Converting..."
+
+#: ../ipaper.php:471
+msgid "Error"
+msgstr "Error"
+
+#: ../ipaper.php:471
+msgid "Displayable"
+msgstr "Displayable"
+
+#: ../ipaper.php:474
+#: ../ipaper.php:765
+msgid "Upload a new document"
+msgstr "Upload a new document"
+
+#: ../ipaper.php:474
+msgid "Documents list"
+msgstr "Documents list"
+
+#: ../ipaper.php:474
+#, php-format
+msgid "%s documents,"
+msgstr "%s documents,"
+
+#: ../ipaper.php:474
+msgid "Synchronize"
+msgstr "Synchronize"
+
+#: ../ipaper.php:480
+msgid "Title"
+msgstr "Title"
+
+#: ../ipaper.php:481
+msgid "Description"
+msgstr "Description"
+
+#: ../ipaper.php:482
+msgid "Pages"
+msgstr "Pages"
+
+#: ../ipaper.php:483
+msgid "Read"
+msgstr "Read"
+
+#: ../ipaper.php:484
+msgid "Status"
+msgstr "Status"
+
+#: ../ipaper.php:485
+msgid "Actions"
+msgstr "Actions"
+
+#: ../ipaper.php:501
+msgid "View"
+msgstr "View"
+
+#: ../ipaper.php:501
+msgid "Edit"
+msgstr "Edit"
+
+#: ../ipaper.php:501
+msgid "Are you sure to delete this document?"
+msgstr "Are you sure to delete this document?"
+
+#: ../ipaper.php:501
+msgid "Delete"
+msgstr "Delete"
+
+#: ../ipaper.php:507
+msgid "No document, try to"
+msgstr "No document, try to"
+
+#: ../ipaper.php:507
+msgid "synchronize"
+msgstr "synchronize"
+
+#: ../ipaper.php:523
+msgid "Edit document"
+msgstr "Edit document"
+
+#: ../ipaper.php:523
+msgid "Cancel and back to list"
+msgstr "Cancel and back to list"
+
+#: ../ipaper.php:523
+#: ../ipaper.php:709
+msgid "or"
+msgstr "or"
+
+#: ../ipaper.php:523
+msgid "view document"
+msgstr "view document"
+
+#: ../ipaper.php:529
+msgid "Title:"
+msgstr "Title:"
+
+#: ../ipaper.php:533
+msgid "Description:"
+msgstr "Description:"
+
+#: ../ipaper.php:537
+#: ../ipaper.php:779
+msgid "Access:"
+msgstr "Access:"
+
+#: ../ipaper.php:539
+#: ../ipaper.php:781
+msgid "Public"
+msgstr "Public"
+
+#: ../ipaper.php:540
+#: ../ipaper.php:782
+msgid "Private"
+msgstr "Private"
+
+#: ../ipaper.php:544
+msgid "Tags:"
+msgstr "Tags:"
+
+#: ../ipaper.php:548
+msgid "Show ads:"
+msgstr "Show ads:"
+
+#: ../ipaper.php:550
+msgid "Account default"
+msgstr "Account default"
+
+#: ../ipaper.php:551
+#: ../ipaper.php:630
+#: ../ipaper.php:637
+#: ../ipaper.php:644
+msgid "Yes"
+msgstr "Yes"
+
+#: ../ipaper.php:552
+#: ../ipaper.php:631
+#: ../ipaper.php:638
+#: ../ipaper.php:645
+msgid "No"
+msgstr "No"
+
+#: ../ipaper.php:556
+msgid "License:"
+msgstr "License:"
+
+#: ../ipaper.php:558
+msgid "Attribution alone"
+msgstr "Attribution alone"
+
+#: ../ipaper.php:559
+msgid "Attribution + Noncommercial"
+msgstr "Attribution + Noncommercial"
+
+#: ../ipaper.php:560
+msgid "Attribution + NoDerivs"
+msgstr "Attribution + NoDerivs"
+
+#: ../ipaper.php:561
+msgid "Attribution + ShareAlike"
+msgstr "Attribution + ShareAlike"
+
+#: ../ipaper.php:562
+msgid "Attribution + Noncommercial + NoDerivs"
+msgstr "Attribution + Noncommercial + NoDerivs"
+
+#: ../ipaper.php:563
+msgid "Attribution + Noncommercial + ShareAlike"
+msgstr "Attribution + Noncommercial + ShareAlike"
+
+#: ../ipaper.php:564
+msgid "Copyright"
+msgstr "Copyright"
+
+#: ../ipaper.php:565
+msgid "Public domain"
+msgstr "Public domain"
+
+#: ../ipaper.php:569
+msgid "Next 7 fields values can't be retrieved, then options won't be checked here but your choices will be saved at Scribd."
+msgstr "Next 7 fields values can't be retrieved, then options won't be checked here but your choices will be saved at Scribd."
+
+#: ../ipaper.php:570
+msgid "Don't forget to set these options each time you update your document!"
+msgstr "Don't forget to set these options each time you update your document!"
+
+#: ../ipaper.php:571
+msgid "These options are put in cache by Scribd, wait some minutes to see changes."
+msgstr "These options are put in cache by Scribd, wait some minutes to see changes."
+
+#: ../ipaper.php:574
+msgid "Disable upload link:"
+msgstr "Disable upload link:"
+
+#: ../ipaper.php:578
+msgid "Disable print:"
+msgstr "Disable print:"
+
+#: ../ipaper.php:582
+msgid "Disable select text:"
+msgstr "Disable select text:"
+
+#: ../ipaper.php:586
+msgid "Disable about dialog:"
+msgstr "Disable about dialog:"
+
+#: ../ipaper.php:590
+msgid "Disable info dialog:"
+msgstr "Disable info dialog:"
+
+#: ../ipaper.php:594
+msgid "Disable view mode change:"
+msgstr "Disable view mode change:"
+
+#: ../ipaper.php:598
+msgid "Disable related documents:"
+msgstr "Disable related documents:"
+
+#: ../ipaper.php:603
+msgid "It's a paid document:"
+msgstr "It's a paid document:"
+
+#: ../ipaper.php:607
+msgid "Type of page restriction:"
+msgstr "Type of page restriction:"
+
+#: ../ipaper.php:609
+msgid "By default"
+msgstr "By default"
+
+#: ../ipaper.php:610
+msgid "Maximum pages"
+msgstr "Maximum pages"
+
+#: ../ipaper.php:611
+msgid "Maximum percentage"
+msgstr "Maximum percentage"
+
+#: ../ipaper.php:612
+msgid "Page range"
+msgstr "Page range"
+
+#: ../ipaper.php:615
+msgid "Number:"
+msgstr "Number:"
+
+#: ../ipaper.php:619
+msgid "Percent:"
+msgstr "Percent:"
+
+#: ../ipaper.php:623
+msgid "Range:"
+msgstr "Range:"
+
+#: ../ipaper.php:628
+msgid "Allow Scribd to vary the preview pages:"
+msgstr "Allow Scribd to vary the preview pages:"
+
+#: ../ipaper.php:635
+msgid "Obfuscate all numbers in document:"
+msgstr "Obfuscate all numbers in document:"
+
+#: ../ipaper.php:642
+msgid "Allow search engine to index the document:"
+msgstr "Allow search engine to index the document:"
+
+#: ../ipaper.php:649
+msgid "Price:"
+msgstr "Price:"
+
+#: ../ipaper.php:653
+msgid "Price shown:"
+msgstr "Price shown:"
+
+#: ../ipaper.php:675
+msgid "Update file"
+msgstr "Update file"
+
+#: ../ipaper.php:678
+msgid "Upload a new file:"
+msgstr "Upload a new file:"
+
+#: ../ipaper.php:679
+#: ../ipaper.php:772
+#, php-format
+msgid "Maximum filesize: %s,"
+msgstr "Maximum filesize: %s,"
+
+#: ../ipaper.php:679
+#: ../ipaper.php:772
+msgid "for bigger upload use <a href=\"http://www.scribd.com/upload\">Scribd interface</a>. Learn why in <a href=\"#help\">help</a>"
+msgstr "for bigger upload use <a href=\"http://www.scribd.com/upload\">Scribd interface</a>. Learn why in <a href=\"#help\">help</a>"
+
+#: ../ipaper.php:682
+msgid "Upload a new file from URL:"
+msgstr "Upload a new file from URL:"
+
+#: ../ipaper.php:689
+msgid "Synchronize list after save:"
+msgstr "Synchronize list after save:"
+
+#: ../ipaper.php:693
+#: ../ipaper.php:753
+#: ../ipaper.php:825
+msgid "Save"
+msgstr "Save"
+
+#: ../ipaper.php:709
+msgid "View document"
+msgstr "View document"
+
+#: ../ipaper.php:709
+msgid "Back to list"
+msgstr "Back to list"
+
+#: ../ipaper.php:709
+msgid "edit document"
+msgstr "edit document"
+
+#: ../ipaper.php:732
+msgid "Enter your Scribd account informations"
+msgstr "Enter your Scribd account informations"
+
+#: ../ipaper.php:737
+msgid "Login:"
+msgstr "Login:"
+
+#: ../ipaper.php:741
+msgid "Password:"
+msgstr "Password:"
+
+#: ../ipaper.php:745
+msgid "API Key:"
+msgstr "API Key:"
+
+#: ../ipaper.php:746
+msgid "Need help?"
+msgstr "Need help?"
+
+#: ../ipaper.php:749
+msgid "API Secret:"
+msgstr "API Secret:"
+
+#: ../ipaper.php:767
+msgid "You can upload a file or upload from url"
+msgstr "You can upload a file or upload from url"
+
+#: ../ipaper.php:771
+msgid "File:"
+msgstr "File:"
+
+#: ../ipaper.php:775
+msgid "URL:"
+msgstr "URL:"
+
+#: ../ipaper.php:786
+msgid "Synchronize list after upload:"
+msgstr "Synchronize list after upload:"
+
+#: ../ipaper.php:790
+msgid "Upload"
+msgstr "Upload"
+
+#: ../ipaper.php:804
+msgid "Default options"
+msgstr "Default options"
+
+#: ../ipaper.php:809
+#: ../window.php:112
+#: ../window.php:146
+msgid "Width:"
+msgstr "Width:"
+
+#: ../ipaper.php:813
+#: ../window.php:114
+#: ../window.php:148
+msgid "Height:"
+msgstr "Height:"
+
+#: ../ipaper.php:817
+#: ../window.php:120
+#: ../window.php:154
+msgid "Mode:"
+msgstr "Mode:"
+
+#: ../ipaper.php:819
+#: ../window.php:123
+#: ../window.php:157
+msgid "List"
+msgstr "List"
+
+#: ../ipaper.php:820
+#: ../window.php:124
+#: ../window.php:158
+msgid "Book"
+msgstr "Book"
+
+#: ../ipaper.php:821
+#: ../window.php:125
+#: ../window.php:159
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: ../ipaper.php:822
+#: ../window.php:126
+#: ../window.php:160
+msgid "Tile"
+msgstr "Tile"
+
+#: ../ipaper.php:837
+#: ../ipaper.php:867
+msgid "Help"
+msgstr "Help"
+
+#: ../ipaper.php:839
+#: ../ipaper.php:869
+msgid "Use the plugin step by step"
+msgstr "Use the plugin step by step"
+
+#: ../ipaper.php:841
+msgid "Create your <a href=\"http://www.scribd.com\">Scribd</a> account and signup for an <a href=\"http://www.scribd.com/publisher/signup_api_details\">API account</a>"
+msgstr "Create your <a href=\"http://www.scribd.com\">Scribd</a> account and signup for an <a href=\"http://www.scribd.com/publisher/signup_api_details\">API account</a>"
+
+#: ../ipaper.php:842
+msgid "Set your login, password, API key and API secret into"
+msgstr "Set your login, password, API key and API secret into"
+
+#: ../ipaper.php:842
+msgid "account informations"
+msgstr "account informations"
+
+#: ../ipaper.php:842
+msgid "(You can find all these datas in your <a href=\"http://www.scribd.com/people/account\">Scribd profile</a>)"
+msgstr "(You can find all these datas in your <a href=\"http://www.scribd.com/people/account\">Scribd profile</a>)"
+
+#: ../ipaper.php:843
+#: ../ipaper.php:871
+#, php-format
+msgid "Upload your documents directly from iPaper plugin. (Your are limited to %s for each file. It's your server limit. When you upload a document from iPaper plugin, file is uploaded to your server, then transfered to Scribd server into your account. If you want to upload bigger documents you have to do it using <a href=\"http://www.scribd.com/upload\">Scribd interface</a>)"
+msgstr "Upload your documents directly from iPaper plugin. (Your are limited to %s for each file. It's your server limit. When you upload a document from iPaper plugin, file is uploaded to your server, then transfered to Scribd server into your account. If you want to upload bigger documents you have to do it using <a href=\"http://www.scribd.com/upload\">Scribd interface</a>)"
+
+#: ../ipaper.php:844
+#: ../ipaper.php:872
+msgid "Synchronize your Scribd account with iPaper plugin"
+msgstr "Synchronize your Scribd account with iPaper plugin"
+
+#: ../ipaper.php:845
+#: ../ipaper.php:873
+msgid "Insert your documents in your posts in one click"
+msgstr "Insert your documents in your posts in one click"
+
+#: ../ipaper.php:847
+#: ../ipaper.php:875
+msgid "Plugins features"
+msgstr "Plugins features"
+
+#: ../ipaper.php:848
+#: ../ipaper.php:876
+msgid "- Upload files from your harddrive or from an url"
+msgstr "- Upload files from your harddrive or from an url"
+
+#: ../ipaper.php:849
+#: ../ipaper.php:877
+msgid "- Edit your documents properties: title, description, tags, access, license, ..."
+msgstr "- Edit your documents properties: title, description, tags, access, license, ..."
+
+#: ../ipaper.php:850
+#: ../ipaper.php:878
+msgid "- Update each document file"
+msgstr "- Update each document file"
+
+#: ../ipaper.php:851
+#: ../ipaper.php:879
+msgid "- Preview your documents"
+msgstr "- Preview your documents"
+
+#: ../ipaper.php:852
+#: ../ipaper.php:880
+msgid "- Delete documents"
+msgstr "- Delete documents"
+
+#: ../ipaper.php:853
+msgid "- Define global height and width used for all documents, but if you want particular height and width for a document, you can override when inserting in a post"
+msgstr "- Define global height and width used for all documents, but if you want particular height and width for a document, you can override when inserting in a post"
+
+#: ../ipaper.php:854
+#: ../ipaper.php:881
+msgid "- Display public documents by giving ID and key"
+msgstr "- Display public documents by giving ID and key"
+
+#: ../ipaper.php:855
+#: ../ipaper.php:882
+msgid "If you want to support iPaper, you can donate, for this version or for future updates, thank you!"
+msgstr "If you want to support iPaper, you can donate, for this version or for future updates, thank you!"
+
+#: ../window.php:79
+msgid "Insert my iPaper document"
+msgstr "Insert my iPaper document"
+
+#: ../window.php:80
+msgid "Insert public iPaper document"
+msgstr "Insert public iPaper document"
+
+#: ../window.php:88
+msgid "Select a document:"
+msgstr "Select a document:"
+
+#: ../window.php:109
+#: ../window.php:143
+msgid "Width and height are taken from plugin settings, but you can override it for each document."
+msgstr "Width and height are taken from plugin settings, but you can override it for each document."
+
+#: ../window.php:113
+#: ../window.php:115
+#: ../window.php:147
+#: ../window.php:149
+msgid "px"
+msgstr "px"
+
+#: ../window.php:118
+#: ../window.php:152
+msgid "Page:"
+msgstr "Page:"
+
+#: ../window.php:135
+msgid "Document ID:"
+msgstr "Document ID:"
+
+#: ../window.php:139
+msgid "Document Key:"
+msgstr "Document Key:"
+
+#: ../window.php:171
+msgid "Cancel"
+msgstr "Cancel"
+
+#: ../window.php:175
+msgid "Insert"
+msgstr "Insert"
+
+#~ msgid "Go to <a href=\""
+#~ msgstr "Go to <a href=\""
+#~ msgid "Name"
+#~ msgstr "Titre"
+
