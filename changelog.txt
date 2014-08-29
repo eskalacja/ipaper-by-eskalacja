@@ -1,11 +1,16 @@
-=== iPaper Changelog ===
+=== iPaper by Eskalacja.com Changelog ===
 
-== Version 1.2 ==
+== Version 2.0 ==
+Github repository init
+Changed the scribt api url to proper one
+Make the plugin works at Wordpress 3.9 (tinyMCE 4)
+
+== Version 1.2 - iPaper ==
 Optimize or Wordpress 2.9
 Display document url in rss feed
 Add stats in documents list in backoffice
 
-== Version 1.1 ==
+== Version 1.1 - iPaper==
 Optimize for Wordpress 2.7
 Fix call of load_plugin_textdomain (Thanks to Mark Barnes)
 Display document in differents modes, and choose starting page (Thanks to Mark Barnes)
@@ -14,5 +19,5 @@ Allow to display public document by giving id and key
 Fix some locale in french
 Fix settings deletion on upgrade, sorry for this bug in version 1.0
 
-== Version 1.0 ==
+== Version 1.0 - iPaper ==
 First public release

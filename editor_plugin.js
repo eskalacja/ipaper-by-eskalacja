@@ -27,15 +27,17 @@
 
 			// Register example button
 			ed.addButton('ipaper', {
-				title : 'iPaper',
+				title : 'iPaper by Esklacja.com',
 				cmd : 'mceipaper',
-				image : url + '/ipaper.png'
+				image : url + '/ipaper.png',
+                onPostRender: function() {
+                    var ctrl = this;
+                    ed.on('NodeChange', function(e) {
+                        ctrl.active(e.element.nodeName == 'img');
+                    });
+                }
 			});
 
-			// Add a node change handler, selects the button in the UI when a image is selected
-			ed.onNodeChange.add(function(ed, cm, n) {
-				cm.setActive('ipaper', n.nodeName == 'IMG');
-			});
 		},
 
 		/**
